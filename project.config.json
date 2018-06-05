@@ -1,0 +1,14 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxf5706a086253ed39",
+	"projectname": "wafer2-quick-start",
+	"condition": {}
+}

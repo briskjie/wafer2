@@ -1,0 +1,10 @@
+/**app.wxss**/
+/**
+ box-sizing: border-box:div设置的宽高度将包含边框及padding
+**/
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+} 
